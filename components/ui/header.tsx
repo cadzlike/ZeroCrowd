@@ -1,7 +1,7 @@
 import Link from 'next/link'
 import Image from 'next/image'
 import MobileMenu from './mobile-menu'
-import LogoImage from '/public/images/ZeroCrowd Logo1.png'
+import LogoImage from '/public/images/ZeroCrowdLogo1.png'
 
 export default function Header() {
   return (
