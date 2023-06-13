@@ -23,13 +23,13 @@ export default function Header() {
               <li>
                 <Link
                   href="/"
-                  className="font-medium font-inter text-purple-600 hover:text-gray-200 px-4 py-3 flex items-center transition duration-150 ease-in-out"
+                  className="font-medium menuAndButtons text-purple-600 hover:text-gray-200 px-4 py-3 flex items-center transition duration-150 ease-in-out"
                 >
                   HOME
                 </Link>
               </li>
               <li>
-                <Link href="https://forms.gle/S5TybN3Yvbu5d4j7A" target="_blank" className="btn-sm font-inter text-white bg-purple-600 hover:bg-purple-700 ml-3">
+                <Link href="https://forms.gle/S5TybN3Yvbu5d4j7A" target="_blank" className="btn-sm menuAndButtons text-white bg-purple-600 hover:bg-purple-700 ml-3">
                   ENROLL NOW
                 </Link>
               </li>

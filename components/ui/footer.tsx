@@ -58,7 +58,7 @@ export default function Footer() {
             </ul>
 
             {/* Copyrights note */}
-            <div className="text-gray-600 text-sm mr-4">&copy; Created by cadaybelmark@gmail.com.</div>
+            <div className="text-gray-600 text-sm mr-4">&copy; ZeroCrowd. All rights reserved</div>
 
           </div>
 

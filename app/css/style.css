@@ -9,6 +9,9 @@
 
 @import 'tailwindcss/utilities';
 
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@700&display=swap');
+
+
 /* Additional Tailwind directives: https://tailwindcss.com/docs/functions-and-directives/#responsive */
 @layer utilities {
     .rtl {
@@ -31,4 +34,8 @@
 .bg2 {
     background-image: url(../../public/images/BG2.jpg);
     background-size: cover;
+}
+
+.menuAndButtons {
+    font-family: 'Cormorant Garamond', serif;
 }
