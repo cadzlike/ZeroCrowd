@@ -20,3 +20,15 @@
 [x-cloak=""] {
     display: none;
 }
+
+.bg {
+    background-image: url(../../public/images/BG3.png);
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+
+.bg2 {
+    background-image: url(../../public/images/BG2.jpg);
+    background-size: cover;
+}

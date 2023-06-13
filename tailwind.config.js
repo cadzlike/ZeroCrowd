@@ -37,8 +37,8 @@ module.exports = {
         '1/1': '100%',
       },
       fontFamily: {
-        inter: ['var(--font-inter)', 'sans-serif'],
-        'architects-daughter': ['var(--font-architects-daughter)', 'sans-serif']
+        inter: ["'Bauhaus 93'"],
+        'architects-daughter': ['var(--font-architects-daughter)', 'Bauhaus 93']
       },
       fontSize: {
         xs: '0.75rem',
