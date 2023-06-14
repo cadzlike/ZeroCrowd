@@ -29,7 +29,7 @@ export default function Header() {
                 </Link>
               </li>
               <li>
-                <Link href="https://forms.gle/S5TybN3Yvbu5d4j7A" target="_blank" className="btn-sm menuAndButtons text-white bg-purple-600 hover:bg-purple-700 ml-3">
+                <Link href="https://docs.google.com/forms/d/e/1FAIpQLSdF6NVr8NMTyB-cZTTmdd_BCZ3wE2kBaO-IROr6RYyRQp2kIw/viewform" target="_blank" className="btn-sm menuAndButtons text-white bg-purple-600 hover:bg-purple-700 ml-3">
                   ENROLL NOW
                 </Link>
               </li>

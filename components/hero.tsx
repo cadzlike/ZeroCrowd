@@ -28,7 +28,7 @@ export default function Hero() {
             <p className="text-xl text-gray-400 mb-8" data-aos="fade-up" data-aos-delay="200">For fitness or for serious skills enhancement. Any age group is welcome. Men and women are welcome.</p>
             <div className="max-w-xs mx-auto sm:max-w-none sm:flex sm:justify-center">
               <div data-aos="fade-up" data-aos-delay="400">
-                <a className="btn text-white bg-purple-600 hover:bg-purple-700 w-full mb-4 sm:w-auto sm:mb-0" href="https://forms.gle/S5TybN3Yvbu5d4j7A" target="_blank">Enroll now</a>
+                <a className="btn text-white bg-purple-600 hover:bg-purple-700 w-full mb-4 sm:w-auto sm:mb-0" href="https://docs.google.com/forms/d/e/1FAIpQLSdF6NVr8NMTyB-cZTTmdd_BCZ3wE2kBaO-IROr6RYyRQp2kIw/viewform" target="_blank">Enroll now</a>
               </div>
 
             </div>
