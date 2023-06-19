@@ -23,13 +23,13 @@ export default function Header() {
               <li>
                 <Link
                   href="/"
-                  className="font-medium menuAndButtons text-purple-600 hover:text-gray-200 px-4 py-3 flex items-center transition duration-150 ease-in-out"
+                  className="font-medium text-black hover:text-gray-700 px-4 py-3 flex items-center transition duration-150 ease-in-out"
                 >
                   HOME
                 </Link>
               </li>
               <li>
-                <Link href="https://docs.google.com/forms/d/e/1FAIpQLSdF6NVr8NMTyB-cZTTmdd_BCZ3wE2kBaO-IROr6RYyRQp2kIw/viewform" target="_blank" className="btn-sm menuAndButtons text-white bg-purple-600 hover:bg-purple-700 ml-3">
+                <Link href="https://docs.google.com/forms/d/e/1FAIpQLSdF6NVr8NMTyB-cZTTmdd_BCZ3wE2kBaO-IROr6RYyRQp2kIw/viewform" target="_blank" className="btn-sm menuAndButtons text-white zerocrowdBGColor1 hover:bg-gray-900 ml-3">
                   ENROLL NOW
                 </Link>
               </li>

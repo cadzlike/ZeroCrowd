@@ -31,14 +31,14 @@ export default function Footer() {
               </li>
               **/}
               <li className="ml-4">
-                <Link href="https://www.facebook.com/zerocrowdmnl" target="_blank" className="flex justify-center items-center text-purple-600 bg-gray-800 hover:text-gray-100 hover:bg-purple-600 rounded-full transition duration-150 ease-in-out" aria-label="Facebook">
+                <Link href="https://www.facebook.com/zerocrowdmnl" target="_blank" className="flex justify-center items-center text-white bg-gray-800 hover:text-gray-100 hover:bg-gray-600 rounded-full transition duration-150 ease-in-out" aria-label="Facebook">
                   <svg className="w-8 h-8 fill-current" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
                     <path d="M14.023 24L14 17h-3v-3h3v-2c0-2.7 1.672-4 4.08-4 1.153 0 2.144.086 2.433.124v2.821h-1.67c-1.31 0-1.563.623-1.563 1.536V14H21l-1 3h-2.72v7h-3.257z" />
                   </svg>
                 </Link>
               </li>
               <li className="ml-4">
-                <Link href="https://l.messenger.com/l.php?u=https%3A%2F%2Finstagram.com%2Fzerocrowdsports%3Figshid%3DMzRlODBiNWFlZA%253D%253D&h=AT214le6OLCvUkPBfrO2NrEYaw0QSBX0hk_c14ebqjH9diT86BHs2HgyK6pytS5VaUw4CPw1MNsqiFFbUurSL_4zsbGkgkkJIu_EwW7imnWopCCgyDN4zLmg7FfVMSnBDv-6a1D0qCzLYDFHgx4" className="flex justify-center items-center text-purple-600 bg-gray-800 hover:text-gray-100 hover:bg-purple-600 rounded-full transition duration-150 ease-in-out" target="_blank" aria-label="Instagram">
+                <Link href="https://l.messenger.com/l.php?u=https%3A%2F%2Finstagram.com%2Fzerocrowdsports%3Figshid%3DMzRlODBiNWFlZA%253D%253D&h=AT214le6OLCvUkPBfrO2NrEYaw0QSBX0hk_c14ebqjH9diT86BHs2HgyK6pytS5VaUw4CPw1MNsqiFFbUurSL_4zsbGkgkkJIu_EwW7imnWopCCgyDN4zLmg7FfVMSnBDv-6a1D0qCzLYDFHgx4" className="flex justify-center items-center text-white bg-gray-800 hover:text-white hover:bg-gray-600 rounded-full transition duration-150 ease-in-out" target="_blank" aria-label="Instagram">
                   <svg className="w-8 h-8 fill-current" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
                     <circle cx="20.145" cy="11.892" r="1" />
                     <path d="M16 20c-2.206 0-4-1.794-4-4s1.794-4 4-4 4 1.794 4 4-1.794 4-4 4zm0-6c-1.103 0-2 .897-2 2s.897 2 2 2 2-.897 2-2-.897-2-2-2z" />
@@ -58,7 +58,7 @@ export default function Footer() {
             </ul>
 
             {/* Copyrights note */}
-            <div className="text-gray-600 text-sm mr-4">&copy; ZeroCrowd. All rights reserved</div>
+            <div className="text-black text-medium mr-4">&copy; ZeroCrowd. All rights reserved</div>
 
           </div>
 
